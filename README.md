@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230262
+# Name:P.SHERIL
+# Date:18.08.2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1225" height="888" alt="Screenshot 2026-08-19 082425" src="https://github.com/user-attachments/assets/6ede07bf-d87a-4542-8934-a405bb81fd72" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1278" height="909" alt="Screenshot 2026-08-19 084053" src="https://github.com/user-attachments/assets/c9e1ca68-de47-472e-8fb1-0e53d9cefa81" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1261" height="919" alt="Screenshot 2026-08-19 093553" src="https://github.com/user-attachments/assets/735ce9b0-76c1-4440-843b-f6fffc9f8ece" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1222" height="886" alt="Screenshot 2026-08-04 143903" src="https://github.com/user-attachments/assets/add6d1d9-7288-45d7-9c33-4eb5275043e2" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="872" height="852" alt="SCREENSHOT" src="https://github.com/user-attachments/assets/4d95da79-c3a1-456d-adb0-ad1abe75dc3c" />
 
 
 
@@ -117,6 +122,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+
+<img width="1226" height="911" alt="Screenshot 2026-08-05 091613" src="https://github.com/user-attachments/assets/6153eff8-f04f-477b-8356-9f9efa1e3c41" />
 
 
 
